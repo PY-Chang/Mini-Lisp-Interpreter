@@ -1,6 +1,6 @@
 # Mini-Lisp-Interpreter
 
-This is an Mini-LISP interpreter built of Yacc and Lex. The language detailed behavior and grammar is showing in "MiniLisp.pdf". The basic funtions are listed down below. 
+>This is an Mini-LISP interpreter built of Yacc and Lex. The language detailed behavior and grammar is showing in "MiniLisp.pdf". The basic funtions are listed down below. 
 ---
 1. Syntax Validation
 2. Print
